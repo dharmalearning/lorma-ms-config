@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod webhook API"
+  message: "Welcome to EazyBank accounts related prod webhook APIssss"
   contactDetails:
     name: "Loga Sangeerani - Product Manager"
     email: "{cipher}d1708b2770d0e56494d0f3e891b533dbb032d3416b707db36e567bd1b700c821820e3482beb84b78c6cc3a853160db62"

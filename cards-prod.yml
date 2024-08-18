@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank cards related prod webhook APIs "
+  message: "Welcome to EazyBank cards related prod webhook APIs"
   contactDetails:
     name: "Dharma - Developer"
     email: "dharma@eazybank.com"
