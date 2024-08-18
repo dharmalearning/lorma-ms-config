@@ -7,9 +7,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related Production APIs "
   contactDetails:
-    name: "Loga Sangeerani - Product Owner"
+    name: "Loga Sangeerani - Product Manager"
     email: "{cipher}d1708b2770d0e56494d0f3e891b533dbb032d3416b707db36e567bd1b700c821820e3482beb84b78c6cc3a853160db62"
   onCallSupport:
     - (453) 392-4829
